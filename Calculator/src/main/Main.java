@@ -12,6 +12,9 @@ public class Main {
 				try {
 					frmmain window = new frmmain();
 					window.frame.setVisible(true);
+					
+					int broj=1;
+					
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
