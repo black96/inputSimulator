@@ -15,6 +15,8 @@ public class Main {
 					
 					int broj=1;
 					
+					int broj2 = 2;
+					
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
